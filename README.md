@@ -17,4 +17,5 @@ Select the instance that you wish to attach to the ELB and Click on `Include as 
  And leave the remaining fields as they are, click on the Create button, and patiently wait for a few minutes for the provisioning process to complete.
  Step 3: Test the Load Balancer
 After registering the instance, you can test the load balancer to ensure that it is working properly. Navigate to the load balancer’s DNS name in a web browser, and you should see your application running. If the load balancer is not working, you can troubleshoot any issues using the AWS Management Console.
-
+Conclusion:-
+Attaching load balancers to EC2 instances is a critical step in ensuring that your applications can handle high amounts of traffic. With this step-by-step guide, you should now be able to create and configure load balancers on AWS with ease.
